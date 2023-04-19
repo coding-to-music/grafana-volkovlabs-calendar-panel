@@ -33,6 +33,8 @@
     "stop": "docker-compose down",
     "test": "grafana-toolkit plugin:test",
     "upgrade": "yarn upgrade --latest",
+    "deploy": "git add . && git commit -m Build && git push",
+    "clean": "bash ./purge-all.sh",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
   "version": "1.4.0"

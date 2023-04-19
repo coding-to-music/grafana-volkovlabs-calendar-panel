@@ -1,3 +1,35 @@
+# grafana-volkovlabs-calendar-panel
+
+# 🚀 A Calendar Panel for @grafana 🚀
+
+
+https://github.com/coding-to-music/grafana-volkovlabs-calendar-panel
+
+From / By https://github.com/volkovlabs/volkovlabs-calendar-panel
+
+
+## Environment variables:
+
+```java
+
+```
+
+## user interfaces:
+
+- Grafana http://localhost:3000
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/grafana-volkovlabs-calendar-panel.git
+git push -u origin main
+```
+
 # Calendar panel for Grafana
 
 ![Calendar](https://github.com/VolkovLabs/volkovlabs-calendar-panel/raw/main/src/img/screenshot.png)
